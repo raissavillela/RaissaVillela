@@ -37,3 +37,12 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+
+## 📊My GitHub Stats
+
+<div>
+  <a href="https://github.com/raissavillela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissavillela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
