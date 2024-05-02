@@ -20,13 +20,13 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFCA28" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 📖  What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFCA28" alt="Docker logo" title="Docker" height="25" />][learning_now_anchor]
 &nbsp;
 
