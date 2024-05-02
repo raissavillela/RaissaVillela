@@ -1,4 +1,4 @@
-# 👋 Hi there! Great to see you!
+# 👋 Hi there. Great to see you!
 
 I am new to coding and studying Web Development at Trybe School. I am continuously evolving my knowledge in JavaScript, TypeScript, React, Python, and SQL Databases. I’ve started learning NodeJS, Docker, and enthusiastically grabbing onto any other programming languages and frameworks.
 
@@ -32,7 +32,7 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/raissavillela)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/raissa-villela)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
