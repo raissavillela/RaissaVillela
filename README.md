@@ -8,6 +8,8 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 
 <a name="learning-now"></a>
 
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFCA28" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
@@ -19,8 +21,6 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFCA28" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 📖  What I am currently learning / improving on
