@@ -1,8 +1,8 @@
-<div align="center">
-  
 # 👋 Hi there. Great to see you!
 
-I am new to coding and studying Web Development at Trybe School. I am continuously evolving my knowledge in JavaScript, TypeScript, React, Python, and SQL Databases. I’ve started learning Java, and enthusiastically grabbing onto any other programming languages and frameworks.
+<div align="center">
+  
+I am new to coding and studying Web Development at Trybe School. I am continuously evolving my knowledge in Python, JavaScript, TypeScript, React, and SQL Databases. I’ve started learning Java, and enthusiastically grabbing onto any other programming languages and frameworks.
 
 I have a Juris Doctor degree. After many years working in the Legal Field I have developed many soft skills such as communication, critical thinking, time management, organization, among others. My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and design patterns.
 
@@ -20,7 +20,6 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 </h3>
 
 ![My Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![My Skills](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![My Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![My Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
