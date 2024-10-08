@@ -43,14 +43,13 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 
 ![My Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<br />
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissavillela&layout=donut-vertical)](https://github.com/raissavillela/github-readme-stats)
 
 </div>
-
-<br />
 
 <h2>
   Where to find me
