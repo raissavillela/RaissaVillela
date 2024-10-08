@@ -9,11 +9,11 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
  </div>
 </a>
 
+<br />
+
 <h2>
 🚀 Languages and Tools:
 </h2>
-
-<br />
 
 <h3>
  💻 Front-End
