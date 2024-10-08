@@ -6,6 +6,9 @@ I am new to coding and studying Web Development at Trybe School. I am continuous
 
 I have a Juris Doctor degree. After many years working in the Legal Field I have developed many soft skills such as communication, critical thinking, time management, organization, among others. My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and design patterns.
 
+ </div>
+</a>
+
 <h2>
 🚀 Languages and Tools:
 </h2>
