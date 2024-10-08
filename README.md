@@ -47,7 +47,7 @@ I have a Juris Doctor degree. After many years working in the Legal Field I have
 
 <div align="center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissavillela&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissavillela&layout=donut-vertical)](https://github.com/raissavillela/github-readme-stats)
 
 </div>
 
