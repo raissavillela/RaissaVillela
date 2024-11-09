@@ -4,7 +4,7 @@
   
 I am a Full Stack Developer dedicated to continuously expanding my expertise in Python, JavaScript, TypeScript, React, and SQL Databases. Recently, I’ve also started learning Java and I am excited to explore additional programming languages and frameworks as I grow in my career.
 
-I have a Juris Doctor degree. After many years working in the Legal Field I have developed many soft skills such as communication, critical thinking, time management, organization, among others. My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and design patterns.
+I hold a Juris Doctor degree. After many years working in the Legal Field I have developed many soft skills such as communication, critical thinking, time management, organization, among others. My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and design patterns.
 
  </div>
 </a>
