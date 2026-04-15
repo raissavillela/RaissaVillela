@@ -1,61 +1,56 @@
-# 👋 Hi there. 
+# 👋 Hi there
 
-<div align="center">
-  
+### Turning curiosity into practical tech solutions
+
 I’m a tech-driven problem solver who enjoys turning ideas into practical, everyday solutions.
 
 Lately, I’ve been exploring how AI can simplify workflows and enhance the way I build and think, with a focus on automation and real-life usability.
-I completed a full stack development bootcamp where I built several projects and developed a strong foundation across Python, JavaScript, TypeScript, React, and SQL.
+
+I completed a full stack development bootcamp, where I built projects and developed a strong foundation in Python, JavaScript, TypeScript, React, and SQL.
 
 I come from a legal background, which taught me how to think critically, communicate clearly, and navigate complex problems. Today, I bring that same mindset into technology by learning quickly, experimenting often, and building tools that are genuinely useful.
 
 Curious by nature, always exploring, always building.
 
- </div>
-</a>
+---
 
-<br />
+## 🚀 What I’m working on
 
-<h2>
-🚀 Languages and Tools:
-</h2>
+- Building a workout-focused app using cloud tools and Replit  
+- Exploring how AI can streamline workflows and improve productivity  
+- Expanding my skills across modern web technologies and new tools  
 
-<h3>
- 💻 Front-End
-</h3>
+---
 
-![My Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![My Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![My Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![My Skills](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![My Skills](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+## 💡 Featured Project
 
- <h3>
- 💻 Back-End
-</h3>
+**Workout App (in progress)**  
+A personal project focused on improving workout tracking and usability in real-life scenarios.  
 
-![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![My Skills](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![My Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![My Skills](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+Built with a focus on simplicity, efficiency, and practical use, leveraging cloud tools and modern development environments.
 
-<br />
+---
 
-<div align="center">
+## 🛠 Tech I work with
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raissavillela&layout=donut-vertical)](https://github.com/raissavillela/github-readme-stats)
+- Python  
+- JavaScript  
+- TypeScript  
+- React  
+- SQL  
 
-</div>
+Currently exploring AI tools and Java.
 
-<h2>
-  Where to find me
-</h2>
-<br />
-<div id="header" align="center">
- 
-  <a href="https://www.linkedin.com/in/raissavillela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:raissavillela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
 
-</div>
+## 🌱 A bit more about me
+
+I enjoy learning across different fields and applying that knowledge to build better solutions.  
+
+Outside of tech, I’m also interested in fitness and creating tools that support my daily routines.
+
+---
+
+## 📫 Let’s connect
+
+Feel free to explore my projects or reach out. I’m always open to learning, collaborating, and new opportunities.
