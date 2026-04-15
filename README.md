@@ -8,7 +8,7 @@ Lately, I’ve been exploring how AI can simplify workflows and enhance the way 
 
 I completed a full stack development bootcamp, where I built projects and developed a strong foundation in Python, JavaScript, TypeScript, React, and SQL.
 
-I’m also currently completing the Google Cybersecurity Professional Certificate, where I’m developing foundational skills in security principles and applying Python to security-focused projects.
+I’m also currently completing the Google Cybersecurity Professional Certificate, where I’m building foundational knowledge in security principles, threat detection, and tools like SIEM, along with hands-on experience using Python, Linux, and SQL.
 
 I come from a legal background, which taught me how to think critically, communicate clearly, and navigate complex problems. Today, I bring that same mindset into technology by learning quickly, experimenting often, and building tools that are genuinely useful.
 
