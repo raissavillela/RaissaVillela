@@ -1,10 +1,15 @@
-# 👋 Hi there. Great to see you!
+# 👋 Hi there. 
 
 <div align="center">
   
-I am a Full Stack Developer dedicated to continuously expanding my expertise in Python, JavaScript, TypeScript, React, and SQL Databases. Recently, I’ve also started learning Java and I am excited to explore additional programming languages and frameworks as I grow in my career.
+I’m a tech-driven problem solver who enjoys turning ideas into practical, everyday solutions.
 
-I hold a Juris Doctor degree. After many years working in the Legal Field I have developed many soft skills such as communication, critical thinking, time management, organization, among others. My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and design patterns.
+Lately, I’ve been exploring how AI can simplify workflows and enhance the way I build and think, with a focus on automation and real-life usability.
+I completed a full stack development bootcamp where I built several projects and developed a strong foundation across Python, JavaScript, TypeScript, React, and SQL.
+
+I come from a legal background, which taught me how to think critically, communicate clearly, and navigate complex problems. Today, I bring that same mindset into technology by learning quickly, experimenting often, and building tools that are genuinely useful.
+
+Curious by nature, always exploring, always building.
 
  </div>
 </a>
