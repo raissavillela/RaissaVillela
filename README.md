@@ -41,13 +41,6 @@ Curious by nature, always exploring, always building.
 ![My Skills](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-<h3>
-  🌱 What I am currently learning / improving on
-</h3>
-
-![My Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 <br />
 
 <div align="center">
